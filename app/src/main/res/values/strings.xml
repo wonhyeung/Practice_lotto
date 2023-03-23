@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practice_02_lotto</string>
+    <string name="_1">1</string>
+    <string name="restart_button">자동 생성 시작</string>
+    <string name="clear_button">초기화</string>
+    <string name="add_button">번호 추가하기</string>
+</resources>
